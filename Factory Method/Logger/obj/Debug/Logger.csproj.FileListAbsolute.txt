@@ -1,0 +1,20 @@
+C:\Users\Cal\Desktop\FactoryPatterns\2013\FactoryMethodStarterCode\Logger\bin\Debug\Logger.dll
+C:\Users\Cal\Desktop\FactoryPatterns\2013\FactoryMethodStarterCode\Logger\bin\Debug\Logger.pdb
+C:\Users\Cal\Desktop\FactoryPatterns\2013\FactoryMethodStarterCode\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\Cal\Desktop\FactoryPatterns\2013\FactoryMethodStarterCode\Logger\obj\Debug\Logger.dll
+C:\Users\Cal\Desktop\FactoryPatterns\2013\FactoryMethodStarterCode\Logger\obj\Debug\Logger.pdb
+C:\Users\Cal\Desktop\FactoryPatterns\2013\FactoryMethodStarterCode\Logger\obj\Debug\Decl\Logger.dll
+C:\Users\Cal\Desktop\FactoryPatterns\2013\FactoryMethodStarterCode\Logger\obj\Debug\Decl\Logger.pdb
+C:\Users\Cal\Desktop\FactoryPatterns2014\FactoryMethodLabStarterCode\Logger\bin\Debug\Logger.dll
+C:\Users\Cal\Desktop\FactoryPatterns2014\FactoryMethodLabStarterCode\Logger\bin\Debug\Logger.pdb
+C:\Users\Cal\Desktop\FactoryPatterns2014\FactoryMethodLabStarterCode\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\Cal\Desktop\FactoryPatterns2014\FactoryMethodLabStarterCode\Logger\obj\Debug\Logger.dll
+C:\Users\Cal\Desktop\FactoryPatterns2014\FactoryMethodLabStarterCode\Logger\obj\Debug\Logger.pdb
+C:\Users\Cal\Desktop\FactoryPatterns2014\FactoryMethodLabStarterCode\Logger\obj\Debug\Decl\Logger.dll
+C:\Users\Cal\Desktop\FactoryPatterns2014\FactoryMethodLabStarterCode\Logger\obj\Debug\Decl\Logger.pdb
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 3 - Factory Method\Logger\bin\Debug\Logger.dll
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 3 - Factory Method\Logger\bin\Debug\Logger.pdb
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 3 - Factory Method\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 3 - Factory Method\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 3 - Factory Method\Logger\obj\Debug\Logger.dll
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 3 - Factory Method\Logger\obj\Debug\Logger.pdb

@@ -1,0 +1,10 @@
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 3 - Factory Method\FactoryMethodStarterCode\bin\Debug\FactoryMethodStarterCode.exe.config
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 3 - Factory Method\FactoryMethodStarterCode\bin\Debug\FactoryMethodStarterCode.exe
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 3 - Factory Method\FactoryMethodStarterCode\bin\Debug\FactoryMethodStarterCode.pdb
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 3 - Factory Method\FactoryMethodStarterCode\bin\Debug\Logger.dll
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 3 - Factory Method\FactoryMethodStarterCode\bin\Debug\Logger.pdb
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 3 - Factory Method\FactoryMethodStarterCode\obj\Debug\FactoryMethodStarterCode.csprojAssemblyReference.cache
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 3 - Factory Method\FactoryMethodStarterCode\obj\Debug\FactoryMethodStarterCode.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 3 - Factory Method\FactoryMethodStarterCode\obj\Debug\FactoryMethodStarterCode.csproj.CopyComplete
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 3 - Factory Method\FactoryMethodStarterCode\obj\Debug\FactoryMethodStarterCode.exe
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 3 - Factory Method\FactoryMethodStarterCode\obj\Debug\FactoryMethodStarterCode.pdb
