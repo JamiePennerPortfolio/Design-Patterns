@@ -1,0 +1,9 @@
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\SingletonDll\bin\Debug\netstandard2.0\SingletonDll.deps.json
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\SingletonDll\bin\Debug\netstandard2.0\SingletonDll.dll
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\SingletonDll\bin\Debug\netstandard2.0\SingletonDll.pdb
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\SingletonDll\obj\Debug\netstandard2.0\SingletonDll.csprojAssemblyReference.cache
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\SingletonDll\obj\Debug\netstandard2.0\SingletonDll.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\SingletonDll\obj\Debug\netstandard2.0\SingletonDll.AssemblyInfoInputs.cache
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\SingletonDll\obj\Debug\netstandard2.0\SingletonDll.AssemblyInfo.cs
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\SingletonDll\obj\Debug\netstandard2.0\SingletonDll.dll
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\SingletonDll\obj\Debug\netstandard2.0\SingletonDll.pdb

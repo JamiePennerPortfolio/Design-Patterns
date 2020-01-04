@@ -1,0 +1,10 @@
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\ThreadingDemo\bin\Debug\ThreadingDemo.exe.config
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\ThreadingDemo\bin\Debug\ThreadingDemo.exe
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\ThreadingDemo\bin\Debug\ThreadingDemo.pdb
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\ThreadingDemo\obj\Debug\ThreadingDemo.csprojAssemblyReference.cache
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\ThreadingDemo\obj\Debug\ThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\ThreadingDemo\obj\Debug\ThreadingDemo.exe
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\ThreadingDemo\obj\Debug\ThreadingDemo.pdb
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\ThreadingDemo\bin\Debug\SingletonDll.dll
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\ThreadingDemo\bin\Debug\SingletonDll.pdb
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 7 - Singleton\ThreadingDemo\obj\Debug\ThreadingDemo.csproj.CopyComplete
