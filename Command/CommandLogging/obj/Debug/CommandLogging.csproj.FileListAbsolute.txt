@@ -1,0 +1,14 @@
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 8 - Command\CommandLogging\bin\Debug\CommandLogging.exe.config
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 8 - Command\CommandLogging\bin\Debug\CommandLogging.exe
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 8 - Command\CommandLogging\bin\Debug\CommandLogging.pdb
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 8 - Command\CommandLogging\bin\Debug\Decorator.dll
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 8 - Command\CommandLogging\bin\Debug\Spreadsheet.dll
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 8 - Command\CommandLogging\bin\Debug\Command.dll
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 8 - Command\CommandLogging\bin\Debug\Decorator.pdb
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 8 - Command\CommandLogging\bin\Debug\Spreadsheet.pdb
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 8 - Command\CommandLogging\bin\Debug\Command.pdb
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 8 - Command\CommandLogging\obj\Debug\CommandLogging.csprojAssemblyReference.cache
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 8 - Command\CommandLogging\obj\Debug\CommandLogging.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 8 - Command\CommandLogging\obj\Debug\CommandLogging.csproj.CopyComplete
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 8 - Command\CommandLogging\obj\Debug\CommandLogging.exe
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 8 - Command\CommandLogging\obj\Debug\CommandLogging.pdb
