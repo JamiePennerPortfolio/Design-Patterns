@@ -1,0 +1,7 @@
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 4 - Observer\GammaConsoleClockObserver\bin\Debug\GammaConsoleClockObserver.exe.config
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 4 - Observer\GammaConsoleClockObserver\bin\Debug\GammaConsoleClockObserver.exe
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 4 - Observer\GammaConsoleClockObserver\bin\Debug\GammaConsoleClockObserver.pdb
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 4 - Observer\GammaConsoleClockObserver\obj\Debug\GammaConsoleClockObserver.csprojAssemblyReference.cache
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 4 - Observer\GammaConsoleClockObserver\obj\Debug\GammaConsoleClockObserver.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 4 - Observer\GammaConsoleClockObserver\obj\Debug\GammaConsoleClockObserver.exe
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 4 - Observer\GammaConsoleClockObserver\obj\Debug\GammaConsoleClockObserver.pdb

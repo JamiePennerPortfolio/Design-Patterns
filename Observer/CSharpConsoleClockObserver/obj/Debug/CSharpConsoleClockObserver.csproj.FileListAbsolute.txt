@@ -1,0 +1,7 @@
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 4 - Observer\CSharpConsoleClockObserver\bin\Debug\CSharpConsoleClockObserver.exe.config
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 4 - Observer\CSharpConsoleClockObserver\bin\Debug\CSharpConsoleClockObserver.exe
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 4 - Observer\CSharpConsoleClockObserver\bin\Debug\CSharpConsoleClockObserver.pdb
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 4 - Observer\CSharpConsoleClockObserver\obj\Debug\CSharpConsoleClockObserver.csprojAssemblyReference.cache
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 4 - Observer\CSharpConsoleClockObserver\obj\Debug\CSharpConsoleClockObserver.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 4 - Observer\CSharpConsoleClockObserver\obj\Debug\CSharpConsoleClockObserver.exe
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 4 - Observer\CSharpConsoleClockObserver\obj\Debug\CSharpConsoleClockObserver.pdb
