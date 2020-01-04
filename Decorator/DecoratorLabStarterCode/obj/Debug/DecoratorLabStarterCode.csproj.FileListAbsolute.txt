@@ -1,0 +1,10 @@
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 2 - Decorator\DecoratorLabStarterCode\bin\Debug\DecoratorLabStarterCode.exe.config
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 2 - Decorator\DecoratorLabStarterCode\bin\Debug\DecoratorLabStarterCode.exe
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 2 - Decorator\DecoratorLabStarterCode\bin\Debug\DecoratorLabStarterCode.pdb
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 2 - Decorator\DecoratorLabStarterCode\bin\Debug\OrdersDll.dll
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 2 - Decorator\DecoratorLabStarterCode\bin\Debug\OrdersDll.pdb
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 2 - Decorator\DecoratorLabStarterCode\obj\Debug\DecoratorLabStarterCode.csprojAssemblyReference.cache
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 2 - Decorator\DecoratorLabStarterCode\obj\Debug\DecoratorLabStarterCode.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 2 - Decorator\DecoratorLabStarterCode\obj\Debug\DecoratorLabStarterCode.csproj.CopyComplete
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 2 - Decorator\DecoratorLabStarterCode\obj\Debug\DecoratorLabStarterCode.exe
+C:\Users\Jamie\Desktop\CST 276 Software Design Patterns\Labs\Lab 2 - Decorator\DecoratorLabStarterCode\obj\Debug\DecoratorLabStarterCode.pdb
